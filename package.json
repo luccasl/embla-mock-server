@@ -1,0 +1,16 @@
+{
+  "name": "embla-mock-server",
+  "version": "1.0.0",
+  "description": "Mock server for the Embla web app",
+  "main": "server.js",
+  "repository": "https://github.com/luccasl/embla-mock-server.git",
+  "author": "Luccas",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
